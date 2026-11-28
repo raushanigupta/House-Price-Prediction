@@ -19,6 +19,31 @@ EstateIQ predicts estimated house prices based on property features such as qual
 - Interactive Price Prediction
 - Professional Streamlit Web Interface
 
+
+
+## Application Screenshots
+
+### 1. Home Page
+![EstateIQ Home Page](screenshots/home.png)
+
+### 2. Property Input Form
+![Property Input Form](screenshots/property-form.png)
+
+### 3. House Price Prediction
+![Prediction Result](screenshots/prediction.png)
+
+### 4. Model Evaluation
+![Model Evaluation](screenshots/model-evaluation.png)
+
+### 5. Model Comparison
+![Model Comparison](screenshots/model-comparison.png)
+
+### 6. Feature Importance
+![Feature Importance](screenshots/feature-importance.png)
+
+### 7. Project Overview / Final Dashboard
+![EstateIQ Final Dashboard](screenshots/feature-importance1.png)
+
 ## 🛠️ Technologies
 
 - Python
